@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## How to play MobiusGrid
 
-You can use the [editor on GitHub](https://github.com/Wingzzzzy/mobiusgridtutorial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+First of all you need to make a new account [Here](https://mobiusgrid.us/home)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+After you did your account go to [Firestorm Vewer](https://www.firestormviewer.org/downloads/) to download the vewer for your operating system
 
-### Markdown
+You are now very close of playing Mobius Grid now go to preferences then on the left tab go to Opensim and on Add new Grid add grid.mobiusgrid.us:8002.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now just drop the log onto grid and select Mobius Grid and Log in.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wingzzzzy/mobiusgridtutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Tutorial done.
